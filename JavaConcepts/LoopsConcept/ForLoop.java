@@ -1,4 +1,4 @@
-package javaConcepts;
+package LoopsConcept;
 
 public class ForLoop {
 
