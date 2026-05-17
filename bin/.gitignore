@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /ArrayFunction/
 /MutableAndNonMutable/
 /Programs/
@@ -6,3 +7,9 @@
 /stringFunctions/
 /superAndThisKeyword/
 /thisAndSuperCallingStatement/
+=======
+/stringFunctions/
+/superAndThisKeyword/
+/thisAndSuperCallingStatement/
+/EncapsulationConcept/
+>>>>>>> db7e6f398bdc665b0d2ffbf40150426907688ee3

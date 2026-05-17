@@ -11,8 +11,9 @@ public class StringBuilderAndBufferConcept {
 
 		
 		//
-		
+		StringBuffer sb2= new StringBuffer();
 		StringBuilder sb= new StringBuilder("ramsharma");
+		sb.append("ramama");
 		StringBuilder sb1= new StringBuilder("ramsharma");
 		sb.append("abkas");
 		//System.out.println(sb.compareTo(sb1));
